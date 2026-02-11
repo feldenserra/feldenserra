@@ -69,4 +69,4 @@ Developing a solo-led SaaS platform designed to streamline home operations and p
 ---
 
 ### 📫 Connect with Me
-* ✉️ **Email:** feldenserra@proton.me **GitHub:** [github.com/feldenserra](https://github.com/feldenserra)
+* ✉️ **Email:** feldenserra@proton.me
